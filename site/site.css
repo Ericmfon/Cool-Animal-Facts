@@ -69,3 +69,32 @@ header
     border: 8px outset #ffa500;
     margin: 30px;
 }
+
+.amount_circles
+{
+    display: inline;   
+}
+
+.amount_circle
+{
+    width: 65px;
+    height: 65px;
+    background-color: whitesmoke;
+    border:2px solid rgb(48, 48, 48);
+    border-radius: 90px;
+    display: block;
+}
+
+#circle1
+{
+    border-radius: 90px;
+}
+
+
+
+
+#generate-button
+{
+    font-size: 20px;
+}
+
